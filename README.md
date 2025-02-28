@@ -15,3 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezequieldannus&show_icons=true&locale=en" alt="ezequieldannus" /></p>
 
+<img src="https://raw.githubusercontent.com/ezequieldannus/ezequieldannus/output/snake.svg" alt="Snake animation" />
